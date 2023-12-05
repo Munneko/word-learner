@@ -1,0 +1,18 @@
+:root {
+    --green: #5FAD56;
+    --yellow: #F2C14E;
+    --red: #F78154;
+    --darkGreen: #305252;
+    --brown:#503432;
+}
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+body {
+    background-color: var(--brown);
+}
+.Header{
+    display: flex;
+    background-color: var(--darkGreen);
+    justify-content:space-between;
+}
