@@ -12,7 +12,10 @@ const Home = () => {
         accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto
         voluptate aliquam nihil, eveniet aliquid culpa officia aut!
       </div>
-      <Block/>
+
+      <Block to={'/LevelTest'} data={'test your english'} />
+      <Block to={''} data={'topics vocabulary'} />
+      <Block to={''} data={'grammar'} />
     </div>
   );
 };
