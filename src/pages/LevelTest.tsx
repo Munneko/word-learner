@@ -3,9 +3,9 @@ import Block from '../components/Block';
 
 const LevelTest = () => {
   return (
-    <div className="home">
+    <div className="page">
       <Block
-        to={''}
+        to={'/LevelTest/FastTest'}
         data={
           'Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel'
         }
@@ -17,6 +17,7 @@ const LevelTest = () => {
         }
       />
     </div>
+    
   );
 };
 

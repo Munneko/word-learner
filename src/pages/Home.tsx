@@ -4,7 +4,7 @@ import Block from '../components/Block';
 
 const Home = () => {
   return (
-    <div className="home">
+    <div className="page">
       <div className="home-greeting">
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel
         sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam

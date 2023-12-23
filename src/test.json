@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "question": "What is the correct plural form of 'child'?",
+      "options": ["childs", "childen", "children", "child's"],
+      "correctAnswer": "children"
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is a modal verb?",
+      "options": ["run", "can", "book", "jump"],
+      "correctAnswer": "can"
+    },
+    {
+      "id": 3,
+      "question": "Choose the correct preposition: He is good _____ playing the piano.",
+      "options": ["at", "on", "in", "with"],
+      "correctAnswer": "at"
+    },
+    {
+      "id": 4,
+      "question": "What is the comparative form of 'happy'?",
+      "options": ["happiest", "happyer", "more happy", "happier"],
+      "correctAnswer": "happier"
+    },
+    {
+      "id": 5,
+      "question": "Which sentence is in the past tense?",
+      "options": [
+        "She will go to the store.",
+        "She goes to the store.",
+        "She is going to the store.",
+        "She went to the store."
+      ],
+      "correctAnswer": "She went to the store."
+    },
+    {
+      "id": 6,
+      "question": "Identify the correct form of the verb: They ________ dinner when I arrived.",
+      "options": ["is eating", "ate", "eats", "have eaten"],
+      "correctAnswer": "ate"
+    },
+    {
+      "id": 7,
+      "question": "What is the superlative form of 'far'?",
+      "options": ["farther", "farest", "further", "farthest"],
+      "correctAnswer": "farthest"
+    },
+    {
+      "id": 8,
+      "question": "Which of the following words is a conjunction?",
+      "options": ["apple", "and", "quickly", "under"],
+      "correctAnswer": "and"
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct form of 'to be' in the past tense: I ____ very tired yesterday.",
+      "options": ["am", "is", "are", "was"],
+      "correctAnswer": "was"
+    },
+    {
+      "id": 10,
+      "question": "What is the correct plural form of 'mouse'?",
+      "options": ["mouses", "mouse", "mice", "mice's"],
+      "correctAnswer": "mice"
+    }
+  ]
+  
